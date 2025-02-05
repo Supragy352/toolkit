@@ -1,0 +1,2104 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"item",
+				"TreeItem"
+			],
+			[
+				"ex",
+				"export"
+			],
+			[
+				"maxs",
+				"max_speed"
+			],
+			[
+				"anima",
+				"animated_sprite"
+			],
+			[
+				"pla",
+				"play"
+			],
+			[
+				"animate",
+				"animated_spriet"
+			],
+			[
+				"vel",
+				"velocity"
+			],
+			[
+				"velo",
+				"velocity"
+			],
+			[
+				"expo",
+				"export"
+			],
+			[
+				"exp",
+				"export"
+			],
+			[
+				"spri",
+				"sprite"
+			],
+			[
+				"anim",
+				"animated_sprite"
+			],
+			[
+				"SPEE",
+				"SPEED"
+			],
+			[
+				"heal",
+				"health"
+			],
+			[
+				"health",
+				"health_changed"
+			],
+			[
+				"ite",
+				"items"
+			],
+			[
+				"strng",
+				"String"
+			],
+			[
+				"_in",
+				"_input(event):"
+			],
+			[
+				"is_ac",
+				"is_action_pressed"
+			],
+			[
+				"even",
+				"event"
+			],
+			[
+				"Vec",
+				"Vector2"
+			],
+			[
+				"col",
+				"Color"
+			],
+			[
+				"vect",
+				"Vector2"
+			],
+			[
+				"SCREEN",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"SCREE",
+				"SCREEN_WIDTH"
+			],
+			[
+				"dot-",
+				"dot2->x"
+			],
+			[
+				"vec",
+				"Vector2"
+			],
+			[
+				"calc",
+				"calculateDistance"
+			],
+			[
+				"getmou",
+				"GetMouseY"
+			],
+			[
+				"print",
+				"printf\tprintf …"
+			],
+			[
+				"dot",
+				"dot2"
+			],
+			[
+				"clear",
+				"ClearBackground"
+			],
+			[
+				"Getmous",
+				"GetMouseY"
+			],
+			[
+				"connec",
+				"connectDots"
+			],
+			[
+				"conne",
+				"connectDots"
+			],
+			[
+				"main",
+				"main\tmain()"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"Getmouse",
+				"GetMouseY"
+			],
+			[
+				"getmouse",
+				"GetMouseX"
+			],
+			[
+				"rand",
+				"rand"
+			],
+			[
+				"ios",
+				"iostream>"
+			],
+			[
+				"stdio",
+				"stdio.h"
+			],
+			[
+				"draw",
+				"DrawCircle"
+			],
+			[
+				"colo",
+				"Color"
+			],
+			[
+				"screen",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"scre",
+				"SCREEN_WIDTH"
+			],
+			[
+				"SCRHEI",
+				"SCREEN_HEIGHT"
+			],
+			[
+				"ifn",
+				"ifndef"
+			],
+			[
+				"ano",
+				"animation/"
+			],
+			[
+				"begin",
+				"BeginDrawing"
+			],
+			[
+				"win",
+				"WindowShouldClose"
+			],
+			[
+				"init",
+				"InitWindow"
+			],
+			[
+				"in",
+				"inc\t#include <…>"
+			],
+			[
+				"Inc",
+				"Inc\t#include <…>"
+			],
+			[
+				"PROJEC",
+				"PROJECT_NAME"
+			],
+			[
+				"add",
+				"add_executable"
+			],
+			[
+				"actionme",
+				"actionmenu"
+			],
+			[
+				"show",
+				"showMessage"
+			],
+			[
+				"menu",
+				"Menu"
+			],
+			[
+				"on",
+				"on_close"
+			],
+			[
+				"labe",
+				"label="
+			],
+			[
+				"file",
+				"filemenu"
+			],
+			[
+				"comma",
+				"command="
+			],
+			[
+				"messa",
+				"message="
+			],
+			[
+				"ask",
+				"askyesno"
+			],
+			[
+				"me",
+				"messagebox"
+			],
+			[
+				"mess",
+				"showMessage"
+			],
+			[
+				"pro",
+				"protocol"
+			],
+			[
+				"te",
+				"textbox"
+			],
+			[
+				"tex",
+				"textbox"
+			],
+			[
+				"sho",
+				"showinfo"
+			],
+			[
+				"ms",
+				"messagebox"
+			],
+			[
+				"impo",
+				"import"
+			],
+			[
+				"tkin",
+				"tkinter"
+			],
+			[
+				"text",
+				"text="
+			],
+			[
+				"che",
+				"checkVal"
+			],
+			[
+				"pad",
+				"pady="
+			],
+			[
+				"p",
+				"pack"
+			],
+			[
+				"Ce",
+				"Checkbutton"
+			],
+			[
+				"pac",
+				"pack"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"L",
+				"Label"
+			],
+			[
+				"tk",
+				"Tk"
+			],
+			[
+				"butt",
+				"buttonfram"
+			],
+			[
+				"font",
+				"font="
+			],
+			[
+				"con",
+				"configure"
+			],
+			[
+				"bu",
+				"buttonfram"
+			],
+			[
+				"fo",
+				"font="
+			],
+			[
+				"la",
+				"Label"
+			],
+			[
+				"ahk",
+				"ahk_class"
+			],
+			[
+				"chu",
+				"chunk_list"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"spli",
+				"splitter"
+			],
+			[
+				"pli",
+				"split_phrase"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"Arg",
+				"ArgumentParser"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"get",
+				"get_pressed"
+			],
+			[
+				"event",
+				"Event"
+			],
+			[
+				"pygame",
+				"pygame"
+			],
+			[
+				"pygam",
+				"pygame\tpygame"
+			],
+			[
+				"set",
+				"set_mode"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"b",
+				"Ball"
+			],
+			[
+				"acc",
+				"ACCELERATION"
+			],
+			[
+				"bal",
+				"ball_velocity"
+			],
+			[
+				"sce",
+				"screen"
+			],
+			[
+				"ball",
+				"ball_pos"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"player",
+				"player_pos"
+			],
+			[
+				"plae",
+				"player_pos"
+			],
+			[
+				"is",
+				"is_on"
+			],
+			[
+				"QUI",
+				"QUIT"
+			],
+			[
+				"prin",
+				"printf\tprintf …"
+			],
+			[
+				"NUmber",
+				"NumberPlane"
+			],
+			[
+				"red",
+				"RED"
+			],
+			[
+				"interac",
+				"interactive_embed"
+			],
+			[
+				"colr",
+				"color"
+			],
+			[
+				"Number",
+				"NumberPlane"
+			],
+			[
+				"intera",
+				"interactive_embed"
+			],
+			[
+				"Opn",
+				"OpenGLSurface"
+			],
+			[
+				"Degre",
+				"DEGREES"
+			],
+			[
+				"lis",
+				"list1"
+			],
+			[
+				"sc",
+				"scene"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"square",
+				"square"
+			],
+			[
+				"Do",
+				"Dot"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scenes/player.gd",
+			"settings":
+			{
+				"buffer_size": 622,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - all_and_run",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"dots - run",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"dots - all_and_run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - all_and_run",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"dots - run",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"dots - rebuild_cache",
+				""
+			]
+		],
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - build_and_run",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"dots - run",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"dots - build_and_run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - build_and_run",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"dots - run",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"dots - run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - build_and_run",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"dots - run",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"dots - build_and_run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - build_and_run",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"dots - run",
+					""
+				],
+				[
+					"dots - run last build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"dots - run",
+				""
+			]
+		],
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"dots - all",
+				""
+			]
+		],
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"dots - all",
+				""
+			]
+		],
+		[
+			[
+				[
+					"dots - all",
+					""
+				],
+				[
+					"dots - clean",
+					""
+				],
+				[
+					"dots - dots",
+					""
+				],
+				[
+					"dots - dots/fast",
+					""
+				],
+				[
+					"dots - edit_cache",
+					""
+				],
+				[
+					"dots - rebuild_cache",
+					""
+				],
+				[
+					"dots - run",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					""
+				],
+				[
+					"Packages/C++ Starting Kit/C++ - Starting Kit.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"dots - rebuild_cache",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"tabs to",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"save ",
+				"Project: Save As"
+			],
+			[
+				"godot",
+				"Godot: Documentation"
+			],
+			[
+				"enable pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"lsp",
+				"LSP: Troubleshoot Server"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"save as",
+				"Project: Save As"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add All"
+			],
+			[
+				"add ad",
+				"Package Control: Advanced Disable Packages"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"psuh",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add all",
+				"Git: Add All"
+			],
+			[
+				"vpf",
+				"View Package File"
+			],
+			[
+				"add fiel",
+				"Git: Add Current File"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"new docu",
+				"Tasks: New document"
+			],
+			[
+				"tasks",
+				"Tasks: New"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"set syntax gitignore",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git inti",
+				"Git: Init"
+			],
+			[
+				"terminus se",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"folder",
+				"Project: Refresh Folders"
+			],
+			[
+				"cance",
+				"Build: Cancel"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"prefe",
+				"Preferences: Settings"
+			],
+			[
+				"preferene",
+				"Preferences: Rust Enhanced Settings"
+			],
+			[
+				"cane",
+				"Build: Cancel"
+			],
+			[
+				"open",
+				"Open Containing Folder…"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"ope",
+				"Open Containing Folder…"
+			],
+			[
+				"shell",
+				"Terminus: List Shells"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"nrw snipp",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"prefter",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"termi",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"can",
+				"Build: Cancel"
+			],
+			[
+				"pyrigh",
+				"LSP-pyright: Create Pyright Configuration File"
+			],
+			[
+				"snippet",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"gd",
+				"LSP: Goto Declaration"
+			],
+			[
+				"lsp ",
+				"LSP: Goto Definition"
+			],
+			[
+				"gtd",
+				"LSP: Goto Type Definition"
+			],
+			[
+				"lsgd",
+				"LSP: Goto Declaration"
+			],
+			[
+				"lspgt",
+				"LSP: Goto Type Definition"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pakc",
+				"Package Control: List Packages"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lsp gtd",
+				"LSP: Goto Type Definition"
+			],
+			[
+				"open contai",
+				"Open Containing Folder…"
+			],
+			[
+				"op",
+				"Open Containing Folder…"
+			],
+			[
+				"open cin",
+				"Open Containing Folder…"
+			],
+			[
+				"shells",
+				"Terminus: List Shells"
+			],
+			[
+				"teminus",
+				"Terminus: Close"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"browse pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"lsp disa",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"configure",
+				"LSP-pyright: Create Pyright Configuration File"
+			],
+			[
+				"pyright",
+				"Preferences: LSP-pyright Settings"
+			],
+			[
+				"lspsett",
+				"Preferences: LSP-pylsp Settings"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
+				"lspjson",
+				"Preferences: LSP-json Settings"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				":w",
+				":wq - Save and Quit"
+			],
+			[
+				"disbale",
+				"Package Control: Disable Package"
+			],
+			[
+				"terminus pre",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"pylsp",
+				"Preferences: LSP-pylsp Settings"
+			],
+			[
+				"preferencespyl",
+				"Preferences: LSP-pylsp Settings"
+			],
+			[
+				"virtual",
+				"Build With: Python + Virtualenv"
+			],
+			[
+				"lsp pref",
+				"Preferences: LSP Settings"
+			],
+			[
+				"newbuil",
+				"PackageDev: New Build System"
+			],
+			[
+				"build",
+				"Build: New Build System"
+			],
+			[
+				"newsnipp",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"lspenal",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"language",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp pre",
+				"Preferences: LSP Settings"
+			],
+			[
+				"codeac",
+				"LSP: Code Action…"
+			],
+			[
+				"terminu",
+				"Terminus: List Shells"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"oepn",
+				"Open Containing Folder…"
+			],
+			[
+				"terminus settings",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"settings termi",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"cancel",
+				"Build: Cancel"
+			],
+			[
+				":q",
+				":q - Quit"
+			],
+			[
+				"help",
+				"Help: Indexing Status"
+			],
+			[
+				"clean",
+				"Build With: Make - Clean"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings"
+			],
+			[
+				"theme termi",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termius ",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"termius setting",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"ren",
+				"Rename File"
+			],
+			[
+				"lclang",
+				"Preferences: LSP-clangd Settings"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"devdocs",
+				"Devdocs: Show Definition"
+			],
+			[
+				"devdoc",
+				"DevDocs: Search From Selection"
+			],
+			[
+				"set syntac",
+				"Set Syntax: C"
+			],
+			[
+				"stage",
+				"Set Syntax: Git Ignore"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"save proje",
+				"Project: Save As"
+			],
+			[
+				"buil",
+				"Build: Cancel"
+			],
+			[
+				"new file",
+				"New File"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"preferen",
+				"Preferences: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"open ",
+				"Open Containing Folder…"
+			],
+			[
+				"new",
+				"Build: New Build System"
+			],
+			[
+				"save pro",
+				"Project: Save As"
+			],
+			[
+				"new build",
+				"Build: New Build System"
+			],
+			[
+				"cancl",
+				"Build: Cancel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"ls",
+			"print(\"Hello\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Dev/Godot/toolkit"
+	],
+	"file_history":
+	[
+		"/E/Dev/Godot/platformer-essay/TODO",
+		"/E/Dev/Godot/platformer-essay/player_state.gd",
+		"/E/Dev/Godot/platformer-essay/camera_manager.gd",
+		"/E/Dev/Godot/platformer-essay/player.gd",
+		"/E/Programs/sublime_text_build_4186_x64/Data/Packages/PlainTasks/messages/Tutorial.todo",
+		"/E/Dev/Godot/platformer-essay/game.tscn",
+		"/E/Dev/Godot/platformer-essay/.gitignore",
+		"/E/Dev/Godot/platformer-essay/state_machine.gd",
+		"/E/Dev/Godot/gdscript_probe/main.gd",
+		"/E/Dev/Godot/gdscript_probe/icon.svg.import",
+		"/E/Dev/Godot/gdscript_probe/icon.svg",
+		"/E/Dev/Godot/gdscript_probe/.gitignore",
+		"/E/Dev/Godot/gdscript_probe/main.tscn",
+		"/E/Dev/Godot/gdscript_probe/project.godot",
+		"/C/Users/Supragy/main.gd",
+		"/C/Users/Supragy/main,gd",
+		"/C/Users/Supragy/gdscript_probe",
+		"/E/Dev/Godot/gdscript_probe/main.gd:0:{column}",
+		"/C/Users/Supragy/dots",
+		"/E/Dev/C/dotsConnect/.gitignore",
+		"/E/Dev/C/dotsConnect/src/main.c",
+		"/E/Dev/C/dotsConnect/CMakeLists.txt",
+		"/E/raylib/w64devkit/external/include/raylib.h",
+		"/C/Program Files (x86)/raylib/include/raylib.h",
+		"/E/Dev/C/dotsConnect/TODO.todo",
+		"/E/Dev/C/dotsConnect/include/raylib.h",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/Git/Default.sublime-commands",
+		"/E/Dev/C/dotsConnect/tests/test_scripts/test.c",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/Git/git_commands.py",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/PlainTasks/messages/Tutorial.todo",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/PlainTasks/Main.sublime-menu",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/PlainTasks/Default.sublime-commands",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/User/PlainTasks.sublime-settings",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/PlainTasks/Default (Windows).sublime-keymap",
+		"/C/Users/Supragy/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/E/Dev/C/dotsConnect/src/main.cpp",
+		"/E/Dev/C/dotsConnect/.cache/clangd/index/main.c.4E94643DD2C8ADCC.idx",
+		"/E/Dev/C/dotsConnect/build/dots.sublime-project",
+		"/E/Dev/C/dotsConnect/src/animation/script.c",
+		"/E/Dev/C/dotsConnect/src/animation/script.h",
+		"/E/Dev/C/dotsConnect/Makefile",
+		"/E/raylib/raylib/build/raylib/raylib.pc",
+		"/E/Dev/C/dotsConnect/build/Makefile",
+		"/E/Dev/PythonProjects/test_scripts/add_to_obsidian.py",
+		"/E/Dev/PythonProjects/test_scripts/sort_downloads.py",
+		"/E/Dev/PythonProjects/test_scripts/main.py",
+		"/C/Users/mishr/Desktop/media.ahk",
+		"/C/Dev/PythonProjects/test_scripts/split_data_export.py",
+		"/C/Dev/PythonProjects/test_scripts/argparse_tutorial.py",
+		"/C/Dev/PythonProjects/test_scripts/test.txt",
+		"/C/Dev/PythonProjects/test_scripts/main.py",
+		"/C/Dev/PythonProjects/test_scripts/new.txt",
+		"/C/Dev/PythonProjects/cython/split_data_export.py",
+		"/C/Dev/PythonProjects/cython/test.txt",
+		"/C/Dev/C/mujoco/sample/Makefile",
+		"/C/Dev/PythonProjects/pygame/Scripts/mengerSponge/sponge.py",
+		"/C/Users/mishr/AppData/Local/Temp/74115791-4d17-4f29-ac5e-ab6fa6145443_p5.zip.443/p5/p5.js",
+		"/C/Users/mishr/AppData/Roaming/Sublime Text/Packages/User/pygame.sublime-snippet",
+		"/C/Dev/PythonProjects/pygame/Scripts/starfield/starfield.py",
+		"/C/Users/mishr/AppData/Roaming/Sublime Text/Packages/User/init.sublime-snippet",
+		"/C/Dev/PythonProjects/pygame/Scripts/util.py",
+		"/C/Dev/PythonProjects/pygame/Scripts/starfield.py",
+		"/C/Dev/PythonProjects/pygame/Scripts/new.py",
+		"/C/Dev/PythonProjects/pygame/pyrightconfig.json",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/draw.pyi",
+		"/C/Dev/PythonProjects/pygame/Scripts/slingshot.py",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/__init__.py",
+		"/C/Dev/PythonProjects/pygame/Scripts/ball.py",
+		"/D/Dev/C/physics/include/mathlib.h",
+		"/C/Dev/PythonProjects/pygame/Scripts/boids.py",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/key.pyi",
+		"/C/Dev/PythonProjects/pygame/Scripts/spring.py",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/time.pyi",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/event.pyi",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/base.pyi",
+		"/C/Users/mishr/AppData/Roaming/Python/Python311/site-packages/pygame/surface.pyi",
+		"/C/Dev/PythonProjects/pygame/Scripts/main.py",
+		"/C/Dev/C/opengl/src/main.c",
+		"/C/Dev/PythonProjects/manim_ce/media/videos/main/1080p60/Anim.mp4",
+		"/C/Dev/PythonProjects/manim_ce/media/videos/main/1080p60/ContinuousMotion.mp4",
+		"/C/Dev/PythonProjects/manim_ce/main.py",
+		"/C/Dev/PythonProjects/manim_ce/media/videos/default/1080p60/Surfaces.mp4",
+		"/C/Dev/PythonProjects/manim_ce/updater.py",
+		"/C/Users/mishr/Desktop/data.csv",
+		"/C/Dev/PythonProjects/manim_ce/default.py",
+		"/C/Program Files/Python311/Lib/site-packages/manim/scene/scene.py",
+		"/C/Dev/PythonProjects/manim_ce/fallingball.py",
+		"/C/Dev/PythonProjects/manim_ce/manim.sublime-project",
+		"/C/Dev/PythonProjects/manim_ce/Makefile",
+		"/C/Program Files/Python311/Lib/types.py",
+		"/C/Dev/PythonProjects/manim_ce/dmain.py",
+		"/C/Dev/PythonProjects/manim_ce/main3.py",
+		"/C/Dev/PythonProjects/manim_ce/media/videos/main/1080p60/StreamFlow.mp4",
+		"/C/Dev/PythonProjects/manim_ce/pyrightconfig.json",
+		"/C/Dev/PythonProjects/manim_ce/manim/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py",
+		"/C/Dev/PythonProjects/manim_ce/manim/pyvenv.cfg",
+		"/C/Python311/Lib/site-packages/manim/mobject/geometry/polygram.py",
+		"/C/Dev/PythonProjects/manim_ce/manim/Lib/site-packages/manim/mobject/geometry/polygram.py",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/LSP/LSP.sublime-settings",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/User/Virtualenv.sublime-settings",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/User/sublime",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/Virtualenv/Virtualenv.sublime-settings",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/Virtualenv/README.md",
+		"/C/Dev/PythonProjects/manim_ce/manim/Lib/site-packages/moderngl_window/scene/scene.py",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/main.c",
+		"/C/Dev/SDL/src/main.c",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/c.sublime-project",
+		"/C/Users/mishr_kctvc0v/VirtualBox VMs/Arch/Arch.vbox-prev",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/makefile",
+		"/C/MinGW/lib/gcc/mingw32/6.3.0/include/tgmath.h",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/Makefile/Make.sublime-build",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/User/TermiusC.sublime-build",
+		"/C/Users/mishr_kctvc0v/AppData/Roaming/Sublime Text/Packages/Makefile.sublime-package",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/include/stage.h",
+		"/K/Folder/engine-from-scratch/src/main.c",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/.bashrc",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/doc_2023-02-13_15-25-16.bashrc",
+		"/E/Jay/pi/pi/.bashrc",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/main.py",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/main.exe",
+		"/C/Users/mishr_kctvc0v/OneDrive/Documents/C/complie_commands.json",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/src/draw.c",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/Makefile",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/src/game.h",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/src/main.c",
+		"/C/Users/mishr_kctvc0v/OneDrive/Desktop/game/blockamok/src/draw.h",
+		"/C/Users/mishr_kctvc0v/package-lock.json"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 196.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scenes/player.gd",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								622
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".$'\"",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "godot-lsp"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///E:/Dev/Godot/toolkit/scenes/player.gd",
+							"show_definitions": false,
+							"syntax": "Packages/SublimeGodot/gdscript/GDScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 108.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 399.0
+	},
+	"output.Powershell":
+	{
+		"height": 598.0
+	},
+	"output.diagnostics":
+	{
+		"height": 356.0
+	},
+	"output.exec":
+	{
+		"height": 403.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 234.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "toolkit.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"too",
+				"TODO"
+			],
+			[
+				"game",
+				"game.tscn"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"main",
+				"main.gd"
+			],
+			[
+				"",
+				".gitignore"
+			],
+			[
+				"cmak",
+				"CMakeLists.txt"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"cma",
+				"CMakeLists.txt"
+			],
+			[
+				"to",
+				"TODO.todo"
+			],
+			[
+				"cm",
+				"CMakeLists.txt"
+			],
+			[
+				"ray",
+				"include\\raylib.h"
+			],
+			[
+				"test",
+				"tests\\test_scripts\\test.c"
+			],
+			[
+				"todo",
+				"TODO.todo"
+			],
+			[
+				"raylib.h",
+				"include\\raylib.h"
+			],
+			[
+				"cmake",
+				"CMakeLists.txt"
+			],
+			[
+				"cmae",
+				".cache\\clangd\\index\\main.c.4E94643DD2C8ADCC.idx"
+			],
+			[
+				"raylib",
+				"include\\raylib.h"
+			],
+			[
+				"a",
+				"src\\main.c"
+			],
+			[
+				"tes",
+				"test.txt"
+			],
+			[
+				"new",
+				"new.txt"
+			],
+			[
+				"spl",
+				"split_data_export.py"
+			],
+			[
+				"ma",
+				"main.py"
+			],
+			[
+				"make",
+				"sample\\Makefile"
+			],
+			[
+				"sta",
+				"Scripts\\starfield\\starfield.py"
+			],
+			[
+				"util",
+				"Scripts\\util.py"
+			],
+			[
+				"nw",
+				"Scripts\\new.py"
+			],
+			[
+				"m",
+				"main.py"
+			],
+			[
+				"py",
+				"default.py"
+			],
+			[
+				"fa",
+				"fallingball.py"
+			],
+			[
+				"fall",
+				"fallingball.py"
+			],
+			[
+				"d",
+				"dmain.py"
+			],
+			[
+				"sublimp",
+				"manim.sublime-project"
+			],
+			[
+				"mak",
+				"Makefile"
+			],
+			[
+				"makefile",
+				"manim\\Lib\\site-packages\\pip\\_vendor\\urllib3\\packages\\backports\\makefile.py"
+			],
+			[
+				"proje",
+				"manim.sublime-project"
+			],
+			[
+				"proj",
+				"manim.sublime-project"
+			],
+			[
+				"pro",
+				"manim.sublime-project"
+			],
+			[
+				"ain",
+				"C\\main.c"
+			],
+			[
+				"projec",
+				"C\\c.sublime-project"
+			],
+			[
+				"stage",
+				"include\\stage.h"
+			],
+			[
+				"wa",
+				"Walker.pde"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 591.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"E:\\Dev\\Godot\\platformer-essay\\platformer-essay.sublime-project"
+			],
+			[
+				"proce",
+				"E:\\Dev\\C\\proceduralRaylib\\build\\proceduralGeneration.sublime-project"
+			],
+			[
+				"dots",
+				"E:\\Dev\\C\\dotsConnect\\build\\dots.sublime-project"
+			],
+			[
+				"luc",
+				"E:\\Dev\\C\\luc\\letusc.sublime-project"
+			],
+			[
+				"manim",
+				"C:\\Dev\\PythonProjects\\manim_ce\\manim.sublime-project"
+			],
+			[
+				"fami",
+				"C:\\Dev\\HTML\\CT\\familywebpage.sublime-project"
+			]
+		],
+		"width": 438.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"lsp_show_inlay_hints": false
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 249.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
